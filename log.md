@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 11, 2026
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Code of the Day**: Started building my GitHub profile's README.md.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm counting this since markdown is a markup language!
 
-**Link to work:** [Calculator App](http://www.example.com)
+I've been wanting to make my GitHub profile look cool for a long time and saw [this one](https://github.com/emjose) as inspiration. He thankfully shared [an article](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de) he wrote detailing the entire process of making his profile and he also shared [a GitHub repo](https://github.com/abhisheknaiidu/awesome-github-profile-readme) with tons of resources and tools to make a cool README.md yourself!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+So anyway, it's far from done, but I plan on continuing to work on it over the next few days and hopefully it'll look unique and showcase my skills in less than a week!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I also want to work more on my portfolio site. Last night, I added the Windows selection rectangle feature and made the windows resizable. There's some tiny UI bugs, but that's life, right? Today, I want to start building the start menu and give anyone looking at my portfolio an even more powerful punch of nostalgia!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Eventually, I want to make my website even more interactive and maybe add games. I wonder if there's any free, open-source, cute, pixelated games I can import into my website?
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Links to work:**
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+- [catalinuh/README.md](https://github.com/catalinuh/catalinuh)
+  - [commit `ae6509d`](https://github.com/catalinuh/catalinuh/commit/ae6509d38ddc98cf8cfef392eb9c450f0a4224fa)
+- [catalinuh/portfolio-new](https://github.com/catalinuh/portfolio-new)
