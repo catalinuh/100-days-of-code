@@ -14,8 +14,18 @@ I also want to work more on my portfolio site. Last night, I added the Windows s
 
 Eventually, I want to make my website even more interactive and maybe add games. I wonder if there's any free, open-source, cute, pixelated games I can import into my website?
 
+#### 10:13pm
+
+Styled the banner inside the start menu to look like the old one in Windows 98, except it's my name :) Also refactored some hard-coded desktop icons so we're mapping through an array to render them now.
+
 **Links to work:**
 
 - [catalinuh/README.md](https://github.com/catalinuh/catalinuh)
   - [commit `ae6509d`](https://github.com/catalinuh/catalinuh/commit/ae6509d38ddc98cf8cfef392eb9c450f0a4224fa)
+  - [commit `8dcad3b`](https://github.com/catalinuh/catalinuh/commit/8dcad3b81225518b6cd041160e8555e160a477c7)
+  - [commit `8f642a3`](https://github.com/catalinuh/catalinuh/commit/8f642a3c3cf2205de4e68cee79d9bbe1f5d6ad57)
+  - [commit `1fa94aa`](https://github.com/catalinuh/catalinuh/commit/1fa94aad75d8f606c152e96e205d0aa67095e33f)
 - [catalinuh/portfolio-new](https://github.com/catalinuh/portfolio-new)
+  - [commit `d248e3d`](https://github.com/catalinuh/portfolio-new/commit/d248e3d32b91be89220010c8d9c19ec9786d02bc)
+  - [commit `a85c673`](https://github.com/catalinuh/portfolio-new/commit/a85c673c362796e0837803d406758713c9a93761)
+  - [commit `b30d202`](https://github.com/catalinuh/portfolio-new/commit/b30d2021e3d5db2df5f5b8d969e87c812b820d43)
