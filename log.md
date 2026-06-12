@@ -26,12 +26,13 @@ Styled the banner inside the start menu to look like the old one in Windows 98, 
   - [commit `8f642a3`](https://github.com/catalinuh/catalinuh/commit/8f642a3c3cf2205de4e68cee79d9bbe1f5d6ad57)
   - [commit `1fa94aa`](https://github.com/catalinuh/catalinuh/commit/1fa94aad75d8f606c152e96e205d0aa67095e33f)
 - [catalinuh/portfolio-new](https://github.com/catalinuh/portfolio-new)
-  - [commit `d248e3d`](https://github.com/catalinuh/portfolio-new/commit/d248e3d32b91be89220010c8d9c19ec9786d02bc)
-  - [commit `a85c673`](https://github.com/catalinuh/portfolio-new/commit/a85c673c362796e0837803d406758713c9a93761)
-  - [commit `b30d202`](https://github.com/catalinuh/portfolio-new/commit/b30d2021e3d5db2df5f5b8d969e87c812b820d43)
-  - [commit `20284b1`](https://github.com/catalinuh/portfolio-new/commit/20284b165dd74577fa28b6d3d0cedce84c5c2310)
-  - [commit `ae16f1f`](https://github.com/catalinuh/portfolio-new/commit/ae16f1faadd60397c4fe4ee72c4b2714563c02bf)
-  - [commit `53719da`](https://github.com/catalinuh/portfolio-new/commit/53719da3d1775d3c659c1c6097edb25f48f97165)
+  - `start-menu` branch:
+    - [commit `d248e3d`](https://github.com/catalinuh/portfolio-new/commit/d248e3d32b91be89220010c8d9c19ec9786d02bc)
+    - [commit `a85c673`](https://github.com/catalinuh/portfolio-new/commit/a85c673c362796e0837803d406758713c9a93761)
+    - [commit `b30d202`](https://github.com/catalinuh/portfolio-new/commit/b30d2021e3d5db2df5f5b8d969e87c812b820d43)
+    - [commit `20284b1`](https://github.com/catalinuh/portfolio-new/commit/20284b165dd74577fa28b6d3d0cedce84c5c2310)
+    - [commit `ae16f1f`](https://github.com/catalinuh/portfolio-new/commit/ae16f1faadd60397c4fe4ee72c4b2714563c02bf)
+    - [commit `53719da`](https://github.com/catalinuh/portfolio-new/commit/53719da3d1775d3c659c1c6097edb25f48f97165)
 
 ### Day 2: June 12, 2026
 
