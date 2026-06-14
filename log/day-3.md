@@ -18,5 +18,4 @@ In the upcoming days of the challenge, I want to play around with new JavaScript
 
 - [catalinuh/README.md](https://github.com/catalinuh/catalinuh)
   - [commit `de11071`](https://github.com/catalinuh/catalinuh/commit/de11071d8ca751d154af0c4db2e667df738fed37)
-- [catalinuh/100-days-of-code](https://github.com/catalinuh/100-days-of-code)
-  - [commit `bd043fd`](https://github.com/catalinuh/catalinuh/commit/bd043fd6ba2e8fe50d11676bcb453ef6b16ec761)
+  - [commit `d0ba0bc`](https://github.com/catalinuh/catalinuh/commit/d0ba0bca48822fdf757852d9ce6684f226804a7a)
