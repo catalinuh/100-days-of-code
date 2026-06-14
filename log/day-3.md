@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 11, 2026
+### Day 3: June 13, 2026
 
 **Today's Code of the Day**: Today (night) I want to reorganize my logs for this 100 Days of Code challenge. I also want to update my GitHub profile's README.md a little bit more.
 
@@ -12,4 +12,11 @@ I'm getting a late start on Day 3 but I'm having such a busy weekend! Today, I'm
 
 I also want to add more badges to my profile and customize it further. Who knew designing badges and markdown would be so much work???
 
+In the upcoming days of the challenge, I want to play around with new JavaScript tools to do fun things with cool effects lol. Maybe make new projects for each new thing I try.
+
 **Links to work:**
+
+- [catalinuh/README.md](https://github.com/catalinuh/catalinuh)
+  - [commit `de11071`](https://github.com/catalinuh/catalinuh/commit/de11071d8ca751d154af0c4db2e667df738fed37)
+- [catalinuh/100-days-of-code](https://github.com/catalinuh/100-days-of-code)
+  - [commit `bd043fd`](https://github.com/catalinuh/catalinuh/commit/bd043fd6ba2e8fe50d11676bcb453ef6b16ec761)
