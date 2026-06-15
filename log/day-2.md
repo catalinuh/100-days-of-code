@@ -6,15 +6,13 @@
 
 **Thoughts:**
 
-#### 1:28am
-
 I kept working through the night because I really wanted to finish this start menu so I'm counting this as my Day 2! And since my commits after midnight range for over an hour, I'd say I completed my Day 2 already! Which is great since I'll be a bit busy today and might not have a ton of time for coding.
 
 But with the completion of the start menu, my portfolio website is feeling more and more like a Windows 98 clone! I'm actually running out of ideas to keep this project going, so the fact that it's coming to an end is crazy. I thought I'd be perpetually working on this for at least a year, but I think I may get done all of my little plans by the end of the summer? Let's see where the next couple months take me!
 
 **Links to work:**
 
-- [catalinuh/portfolio-new](https://github.com/catalinuh/portfolio-new)
+- [catalinuh/portfolio-new](https://github.com/catalinuh/portfolio-new): [catalinamcquade.com](https://catalinamcquade.com/)
   - `start-menu` branch:
     - [commit `1703632`](https://github.com/catalinuh/portfolio-new/commit/170363211df2ddeb12bfe830cc7dd301608dd739)
     - [commit `7db0083`](https://github.com/catalinuh/portfolio-new/commit/7db0083f600da24b3445efce00b6b54ccc6cc3bd)
