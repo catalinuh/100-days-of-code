@@ -2,7 +2,7 @@
 
 ### Day 5: June 15, 2026
 
-**Today's Code of the Day**: Installed [neko.exe](https://github.com/ankitshuxe/neko.exe), a cute CLI pomodoro timer, finished my GitHub profile's README.md (for now), installed Clippy in animation project successfully, but couldn't get Clippy to appear in my portfolio project
+**Today's Code of the Day:** Installed [neko.exe](https://github.com/ankitshuxe/neko.exe), a cute CLI pomodoro timer, finished my GitHub profile's README.md (for now), installed Clippy in animation project successfully, but couldn't get Clippy to appear in my portfolio project
 
 **Thoughts:**
 

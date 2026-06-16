@@ -2,7 +2,7 @@
 
 ### Day 2: June 12, 2026
 
-**Today's Code of the Day**: Finished building out my portfolio's start menu!
+**Today's Code of the Day:** Finished building out my portfolio's start menu!
 
 **Thoughts:**
 

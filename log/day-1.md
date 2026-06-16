@@ -2,7 +2,7 @@
 
 ### Day 1: June 11, 2026
 
-**Today's Code of the Day**: Started building my GitHub profile's README.md and continued working on portfolio website
+**Today's Code of the Day:** Started building my GitHub profile's README.md and continued working on portfolio website
 
 **Thoughts:**
 

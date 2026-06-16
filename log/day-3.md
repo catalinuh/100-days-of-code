@@ -2,7 +2,7 @@
 
 ### Day 3: June 13, 2026
 
-**Today's Code of the Day**: Today (night) I want to reorganize my logs for this 100 Days of Code challenge. I also want to update my GitHub profile's README.md a little bit more.
+**Today's Code of the Day:** Today (night) I want to reorganize my logs for this 100 Days of Code challenge. I also want to update my GitHub profile's README.md a little bit more.
 
 **Thoughts:**
 
