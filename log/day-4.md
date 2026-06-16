@@ -2,9 +2,7 @@
 
 ### Day 4: June 14, 2026
 
-**Today's Code of the Day**:
-
-Created a new project with the intention of playing around with anime.js
+**Today's Code of the Day**: Created a new project with the intention of playing around with anime.js
 
 **Thoughts:**
 

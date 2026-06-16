@@ -4,7 +4,9 @@
 
 **Today's Code of the Day**: Started building my GitHub profile's README.md and continued working on portfolio website
 
-**Thoughts:** I'm counting this since markdown is a markup language!
+**Thoughts:**
+
+I'm counting this since markdown is a markup language!
 
 I've been wanting to make my GitHub profile look cool for a long time and saw [this one](https://github.com/emjose) as inspiration. He thankfully shared [an article](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de) he wrote detailing the entire process of making his profile and he also shared [a GitHub repo](https://github.com/abhisheknaiidu/awesome-github-profile-readme) with tons of resources and tools to make a cool README.md yourself!
 
